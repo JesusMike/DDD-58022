@@ -1,0 +1,5 @@
+ComputerID,Model,Processor,RAM,Storage,Price,Graphics
+1,ModelA,"Intel Core i7",16,512,1200.00,"Integrated Intel HD Graphics 4600"
+2,ModelB,"Intel Core i5",8,256,800.00,"Integrated Intel HD Graphics 4600"
+3,ModelA,"Intel Core i5",8,256,900.00,"Integrated Intel HD Graphics 4600"
+4,ModelB,"Intel Core i3",4,128,500.00,"Integrated Intel HD Graphics 4600"
